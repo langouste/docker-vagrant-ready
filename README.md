@@ -1,4 +1,4 @@
-Ansible ready image
+Vagrant ready image
 ===================
 
 Ubuntu image with systemd and others requirements to be used with Vagrant.
@@ -9,6 +9,11 @@ Supported tags and `Dockerfile` links
 -------------------------------------
 
 * [`20.04`,`latest`](https://github.com/langouste/docker-vagrant-ready/blob/master/Dockerfile)
+
+Usage
+-----
+
+See [ansible-skeleton](https://github.com/langouste/ansible-skeleton) for an usage example.
 
 Credits
 -------
